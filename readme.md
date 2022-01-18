@@ -4,25 +4,25 @@
 
 *https://github.com/luantty2/pheromone_keyboard*
 
-<img src="\img\pheromone.jpg" alt="pheromone"  />
+<img src=".\img\pheromone.jpg" alt="pheromone"  />
 
 ## 2.Kihon
 
 *https://github.com/Zlanee/Kihon*
 
-<img src="\img\Kihon.png" alt="Kihon"  />
+<img src=".\img\Kihon.png" alt="Kihon"  />
 
 ## 3.Tartan
 
 *https://github.com/hsgw/tartan*
 
-<img src="\img\tartan.jpg" alt="Tartan" style="zoom: 50%;" />
+<img src=".\img\tartan.jpg" alt="Tartan" style="zoom: 50%;" />
 
 ## 4.Tsuki
 
 *https://github.com/AcheronProject/Tsuki*
 
-<img src="img\Tsuki.png" alt="Tsuki" style="zoom:50%;" />
+<img src=".img\Tsuki.png" alt="Tsuki" style="zoom:50%;" />
 
 ## 5.Waffling60
 
@@ -34,10 +34,10 @@
 
 *https://github.com/jmdaly/CO60*
 
-<img src="\img\CO60.png" alt="CO60"  />
+<img src=".\img\CO60.png" alt="CO60"  />
 
 ## 7.Pill60
 
 *https://github.com/IktaS/Pill60*
 
-![Pill60](\img\Pill60.png)
+![Pill60](.\img\Pill60.png)
