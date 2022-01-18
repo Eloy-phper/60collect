@@ -22,7 +22,7 @@
 
 *https://github.com/AcheronProject/Tsuki*
 
-<img src=".img\Tsuki.png" alt="Tsuki" style="zoom:50%;" />
+<img src=".\img\Tsuki.png" alt="Tsuki" style="zoom:50%;" />
 
 ## 5.Waffling60
 
